@@ -13,7 +13,8 @@ var thisIsCrazy = function (){
   thisIsCrazy();
 
 function sayMyName() {
-  var name = "Kristin";
+  var name;
+  name = "Kristin";
     console.log(name);
   }
   sayMyName();
